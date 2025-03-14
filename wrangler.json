@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "damp-night-4a4d",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "705d7166-1c86-4207-b4c6-f932ca579c52",
+      "database_name": "small-cherry-a380-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
